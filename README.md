@@ -56,26 +56,24 @@ El enfoque principal se centra en validar las funcionalidades críticas del sist
 ---
 
 ## **Diagramas del Proyecto**
-### Diagrama de despliegue
-![image](https://github.com/user-attachments/assets/75bee163-77fa-4e5f-85bf-3c01225a6d1e)
 
 ### **Diagrama de Casos de Uso**
-![Diagrama de Casos de Uso](path/to/use_case_diagram.png)
+![image](https://github.com/user-attachments/assets/a3815c3a-c07f-4c0a-ab73-5166c14e5b75)
 
-### **Diagrama de Secuencia**
-![Diagrama de Secuencia](path/to/sequence_diagram.png)
+![image](https://github.com/user-attachments/assets/090c209e-c633-4e0c-a19e-c833245a044b)
 
-### **Diagrama de Colaboración**
-![Diagrama de Colaboración](path/to/collaboration_diagram.png)
-
-### **Diagrama de Objetos**
-![Diagrama de Objetos](path/to/object_diagram.png)
 
 ### **Diagrama de Clases**
-![Diagrama de Clases](path/to/class_diagram.png)
+![image](https://github.com/user-attachments/assets/4cc73500-ed14-403e-8c23-313b6bda798a)
 
 ### **Diagrama de Paquetes**
-![Diagrama de Paquetes](path/to/package_diagram.png)
+![image](https://github.com/user-attachments/assets/080755f6-bfaa-4630-8baa-b1fa8590ef92)
+
+### **Diagrama de Secuencia Automatizada**
+![image](https://github.com/user-attachments/assets/10f2fc5a-9038-4eb1-8f0f-1452729ae13a)
+
+### **Arquietctura**
+![image](https://github.com/user-attachments/assets/dc67c05e-3718-45e5-89c5-82aa49bb12e9)
 
 ---
 
