@@ -56,6 +56,8 @@ El enfoque principal se centra en validar las funcionalidades críticas del sist
 ---
 
 ## **Diagramas del Proyecto**
+### Diagrama de despliegue
+![image](https://github.com/user-attachments/assets/75bee163-77fa-4e5f-85bf-3c01225a6d1e)
 
 ### **Diagrama de Casos de Uso**
 ![Diagrama de Casos de Uso](path/to/use_case_diagram.png)
