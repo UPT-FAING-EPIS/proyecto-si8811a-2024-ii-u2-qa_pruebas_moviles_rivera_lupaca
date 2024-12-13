@@ -1,6 +1,8 @@
 # Proyecto Juegos Florales - Pruebas Móviles
 
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17295804)
+## Repositorio de pruebas
+https://github.com/JhonnyARM/Topicos_SonarQube
 
 ## **Descripción General**
 Este proyecto tiene como objetivo garantizar la calidad del aplicativo móvil "Juegos Florales", desarrollado para la Universidad Privada de Tacna. Las pruebas móviles realizadas abarcan funcionalidad, compatibilidad y rendimiento en dispositivos Android, utilizando herramientas como **Appium**, **Selenium**, **BrowserStack**, y generando reportes detallados con **Allure**.
